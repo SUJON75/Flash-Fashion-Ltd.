@@ -1,0 +1,48 @@
+.margin-bottom{
+    margin-bottom: 100px;
+    
+}
+
+.carousel-indicators li{
+    background-color: #ffc300;
+    border: none;
+    border-radius: 10px;
+    padding: 1px 1px;
+    cursor: pointer;
+    
+
+}
+
+.top-bg{
+    background-image: url("top-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+.buy-now-button{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 30px;
+    cursor: pointer;
+
+
+}
+.card-center{
+    text-align: center;    
+}
+.categories{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: #FF9C35;
+    
+    
+}
+.cg-bg{
+    border: none;
+    border-radius: 50px;
+    
+    
+}
